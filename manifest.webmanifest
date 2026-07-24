@@ -1,0 +1,26 @@
+{
+  "name": "Vegas Lounge",
+  "short_name": "Vegas",
+  "description": "Vegas Lounge: Where luck, luxury and the tide all turn in your favour",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f6f2f3",
+  "theme_color": "#b5677e",
+  "lang": "en",
+  "dir": "ltr",
+  "orientation": "portrait-primary",
+  "categories": [
+    "travel",
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
