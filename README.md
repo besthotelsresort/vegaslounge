@@ -1,0 +1,2 @@
+# vegaslounge
+Static site: vegaslounge
